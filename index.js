@@ -6,3 +6,7 @@ function  gg(a,b,c) {
 
 console.log('ничего не понимаю...');
 
+
+function dec(){
+    console.log('ветки эти ебучие');
+}
