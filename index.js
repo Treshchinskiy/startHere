@@ -5,3 +5,4 @@ function  gg(a,b,c) {
 }
 
 console.log('ничего не понимаю...');
+
