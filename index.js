@@ -10,3 +10,8 @@ console.log('ничего не понимаю...');
 function dec(){
     console.log('ветки эти ебучие');
 }
+
+
+function more(){
+    console.log('консоль');
+}
